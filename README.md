@@ -28,7 +28,7 @@
 
 Welcome to **watch** 👀 this repository for the latest updates.
 
-✅ **[2023.04.07]** : FIP is accepted to ACM CCS'2024
+✅ **[2024.04.07]** : FIP is accepted to ACM CCS'2024
 
 
 
